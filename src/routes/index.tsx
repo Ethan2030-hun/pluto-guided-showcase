@@ -192,36 +192,6 @@ const skills = [
   },
 ];
 
-const projects = [
-  {
-    image: project1,
-    title: "Data Insights Dashboard",
-    desc: "Interactive dashboard for analyzing business data.",
-    tags: ["Python", "Pandas", "Power BI"],
-    cat: "data",
-  },
-  {
-    image: project2,
-    title: "Portfolio Website",
-    desc: "Personal portfolio built with modern UI/UX and animations.",
-    tags: ["React", "Tailwind", "Framer Motion"],
-    cat: "web",
-  },
-  {
-    image: project3,
-    title: "Task Manager API",
-    desc: "REST API for managing tasks with auth & database.",
-    tags: ["Node.js", "Express", "MySQL"],
-    cat: "tools",
-  },
-  {
-    image: project1,
-    title: "E-Commerce UI",
-    desc: "Responsive e-commerce frontend with cart and filters.",
-    tags: ["React", "Context API", "CSS"],
-    cat: "web",
-  },
-];
 
 const filters = [
   { id: "all", label: "All" },
